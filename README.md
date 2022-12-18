@@ -1,2 +1,3 @@
 # ML-DL-DS-Creator-For-Audio-.wav-
-Make Folders named "Audio Files", "Chunked Audio Files" and "Downloaded Audio Files" inside the directory where your ""dl-PChunks.py"" is located. Then open "cmd" on that directory and write: "dl-PChunks "youtube_video_url" "speaker_name" " and hit enter!
+Download source code on your system. Then open "cmd" on that directory and write: "dl-PChunks "youtube_video_url" "speaker_name" and just hit enter!
+You can also run this over a text filled with "youtube_video_url" "speaker_name" list to automate the whole process.
